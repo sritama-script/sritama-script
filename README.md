@@ -1,6 +1,3 @@
-Paste this into `README.md`. Keep [gitartwork.svg](<C:/Users/srita/Documents/my github/assets/gitartwork.svg>) inside an `assets` folder in the repository.
-
-````markdown
 <div align="center">
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6C3BFF,50:00C2FF,100:00E5A8&height=220&section=header&text=Sritama%20Chatterjee&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Android%20%26%20Flutter%20App%20Developer&descAlignY=57&animation=fadeIn)
@@ -139,4 +136,4 @@ open_to: Internships, fresher roles, freelance work, and collaboration
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00E5A8,50:00C2FF,100:6C3BFF&height=120&section=footer)
 
 </div>
-````
+

@@ -1,6 +1,3 @@
-Paste this entire code into your `README.md`:
-
-```markdown
 <div align="center">
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6C3BFF,50:00C2FF,100:00E5A8&height=220&section=header&text=Sritam%20Chatterjee&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Developer%20%E2%80%A2%20Learner%20%E2%80%A2%20Builder&descAlignY=57&animation=fadeIn)

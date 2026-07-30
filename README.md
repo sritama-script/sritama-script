@@ -14,7 +14,7 @@
 ## ⚡ About Me
 
 ```yaml
-name: Sritam Chatterjee
+name: Sritama Chatterjee
 github: sritama-script
 focus: Building useful projects and strengthening my development skills
 currently: Learning, experimenting, and creating in public

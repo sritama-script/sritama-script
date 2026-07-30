@@ -35,13 +35,6 @@ open_to: Internships, fresher roles, freelance work, and collaboration
 ```
 
 - 🎓 I am pursuing a **B.Tech in Electronics and Communication Engineering** at **RCC Institute of Information Technology (RCCIIT), Kolkata**, graduating in 2027.
-- 📱 I build cross-platform and native mobile applications with **Flutter, Android, Jetpack Compose, Swift, and Kotlin Multiplatform**.
-- ♿ I am particularly interested in **mobile accessibility and assistive technology** that creates meaningful real-world impact.
-- 🔌 I enjoy combining mobile development with **IoT and ESP32-based hardware systems**.
-- 🏆 I actively participate in **hackathons, competitive technology events, and full-stack mobile projects**.
-- 🌱 I am currently strengthening my **Data Structures and Algorithms** skills.
-- 🎯 My goal is to grow as an Android/Flutter developer building impactful, production-grade mobile applications.
-- 🤝 I am open to **Android/Flutter internships, fresher roles, freelance work, and collaboration**.
 
 ## 🧠 Tech Stack
 

@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6C3BFF,50:00C2FF,100:00E5A8&height=220&section=header&text=Sritama%20Chatterjee&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Developer%20%E2%80%A2%20Learner%20%E2%80%A2%20Builder&descAlignY=57&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=900&color=00C2FF&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Sritam+%F0%9F%91%8B;I+turn+ideas+into+code;Learning%2C+building%2C+and+sharing+as+I+go)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=900&color=00C2FF&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Sritama+%F0%9F%91%8B;I+turn+ideas+into+code;Learning%2C+building%2C+and+sharing+as+I+go)](https://git.io/typing-svg)
 
 [![GitHub followers](https://img.shields.io/github/followers/sritama-script?style=for-the-badge&logo=github&label=Followers&color=6C3BFF)](https://github.com/sritama-script?tab=followers)
 [![Profile views](https://komarev.com/ghpvc/?username=sritama-script&style=for-the-badge&color=00AFC7)](https://github.com/sritama-script)

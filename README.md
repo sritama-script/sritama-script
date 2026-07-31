@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6C3BFF,50:00C2FF,100:00E5A8&height=220&section=header&text=Sritama%20Chatterjee&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Android%20%26%20Flutter%20App%20Developer&descAlignY=57&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=900&color=00C2FF&center=true&vCenter=true&width=760&lines=Hello%2C+I'm+Sritama+%F0%9F%91%8B;Android+%26+Flutter+App+Developer;Building+accessible+mobile+experiences;Flutter+%E2%80%A2+Kotlin+%E2%80%A2+Compose+%E2%80%A2+KMP)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=900&color=00C2FF&center=true&vCenter=true&width=760&lines=Hola%2C+I'm+Sritama+%F0%9F%91%8B;Android+%26+Flutter+App+Developer;Building+accessible+mobile+experiences;Flutter+%E2%80%A2+Kotlin+%E2%80%A2+Compose+%E2%80%A2+KMP)](https://git.io/typing-svg)
 
 [![GitHub followers](https://img.shields.io/github/followers/sritama-script?style=for-the-badge&logo=github&label=Followers&color=6C3BFF)](https://github.com/sritama-script?tab=followers)
 [![Profile views](https://komarev.com/ghpvc/?username=sritama-script&style=for-the-badge&color=00AFC7)](https://github.com/sritama-script)

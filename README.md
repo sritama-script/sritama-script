@@ -15,7 +15,7 @@
 
 ### 📱 Android & Flutter App Developer
 
-![Sritama Chatterjee contribution-style artwork](./assets/gitartwork.svg)
+[![gitartwork](https://readme-gitartwork.vercel.app/api?username=sritama-script)](https://github.com/jasondavindev/gitartwork)
 
 </div>
 
@@ -124,9 +124,8 @@ open_to: Internships, fresher roles, freelance work, and collaboration
 
 <div align="center">
 
-### “Let the work speak.”
+### "Let the work speak."
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00E5A8,50:00C2FF,100:6C3BFF&height=120&section=footer)
 
 </div>
-

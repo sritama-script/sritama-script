@@ -15,7 +15,7 @@
 
 ### 📱 Android & Flutter App Developer
 
-[![gitartwork](https://readme-gitartwork.vercel.app/api?username=sritama-script)](https://github.com/jasondavindev/gitartwork)
+[![gitartwork](gitartwork.svg)](https://github.com/jasineri/gitartwork)
 
 </div>
 
